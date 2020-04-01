@@ -1,0 +1,5 @@
+/Users/bingheshiji/RiderProjects/fntconv/fntconv/bin/Debug/fntconv.exe
+/Users/bingheshiji/RiderProjects/fntconv/fntconv/bin/Debug/fntconv.pdb
+/Users/bingheshiji/RiderProjects/fntconv/fntconv/obj/Debug/fntconv.csprojAssemblyReference.cache
+/Users/bingheshiji/RiderProjects/fntconv/fntconv/obj/Debug/fntconv.exe
+/Users/bingheshiji/RiderProjects/fntconv/fntconv/obj/Debug/fntconv.pdb

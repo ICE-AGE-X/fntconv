@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb23537c-3e49-47fd-9660-d3a5427b2857" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BA70B917-36BD-40CB-990A-357097DBA9C3/74/10641873/FileStream.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/fntconv/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fntconv/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zt9sajLFF7GgQtCbLi7qnRtbZd" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/fntconv/bin/Debug/fntconv.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fntconv/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/fntconv/fntconv.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v2.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb23537c-3e49-47fd-9660-d3a5427b2857" name="Default Changelist" comment="" />
+      <created>1585647731102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585647731102</updated>
+      <workItem from="1585647733778" duration="3636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1315" y="260" key="#Default" />
+    <state x="1315" y="260" key="#Default/2880.1800/2560.1080" />
+    <state width="447" height="445" key="DebuggerActiveHint" />
+    <state width="447" height="445" key="DebuggerActiveHint/2880.1800/2560.1080" />
+    <state width="1358" height="307" key="GridCell.Tab.0.bottom" />
+    <state width="1358" height="307" key="GridCell.Tab.0.bottom/2880.1800/2560.1080" />
+    <state width="1358" height="307" key="GridCell.Tab.0.center" />
+    <state width="1358" height="307" key="GridCell.Tab.0.center/2880.1800/2560.1080" />
+    <state width="1358" height="307" key="GridCell.Tab.0.left" />
+    <state width="1358" height="307" key="GridCell.Tab.0.left/2880.1800/2560.1080" />
+    <state width="1358" height="307" key="GridCell.Tab.0.right" />
+    <state width="1358" height="307" key="GridCell.Tab.0.right/2880.1800/2560.1080" />
+    <state width="1358" height="307" key="GridCell.Tab.1.bottom" />
+    <state width="1358" height="307" key="GridCell.Tab.1.bottom/2880.1800/2560.1080" />
+    <state width="1358" height="307" key="GridCell.Tab.1.center" />
+    <state width="1358" height="307" key="GridCell.Tab.1.center/2880.1800/2560.1080" />
+    <state width="1358" height="307" key="GridCell.Tab.1.left" />
+    <state width="1358" height="307" key="GridCell.Tab.1.left/2880.1800/2560.1080" />
+    <state width="1358" height="307" key="GridCell.Tab.1.right" />
+    <state width="1358" height="307" key="GridCell.Tab.1.right/2880.1800/2560.1080" />
+    <state width="1358" height="307" key="GridCell.Tab.2.bottom" />
+    <state width="1358" height="307" key="GridCell.Tab.2.bottom/2880.1800/2560.1080" />
+    <state width="1358" height="307" key="GridCell.Tab.2.center" />
+    <state width="1358" height="307" key="GridCell.Tab.2.center/2880.1800/2560.1080" />
+    <state width="1358" height="307" key="GridCell.Tab.2.left" />
+    <state width="1358" height="307" key="GridCell.Tab.2.left/2880.1800/2560.1080" />
+    <state width="1358" height="307" key="GridCell.Tab.2.right" />
+    <state width="1358" height="307" key="GridCell.Tab.2.right/2880.1800/2560.1080" />
+    <state width="1358" height="307" key="GridCell.Tab.3.bottom" />
+    <state width="1358" height="307" key="GridCell.Tab.3.bottom/2880.1800/2560.1080" />
+    <state width="1358" height="307" key="GridCell.Tab.3.center" />
+    <state width="1358" height="307" key="GridCell.Tab.3.center/2880.1800/2560.1080" />
+    <state width="1358" height="307" key="GridCell.Tab.3.left" />
+    <state width="1358" height="307" key="GridCell.Tab.3.left/2880.1800/2560.1080" />
+    <state width="1358" height="307" key="GridCell.Tab.3.right" />
+    <state width="1358" height="307" key="GridCell.Tab.3.right/2880.1800/2560.1080" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
